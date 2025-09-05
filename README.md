@@ -12,7 +12,7 @@
 - Programming Languages & Computer Architecture  
 - Quantum Computing 
   
-*Currently conducting research in computer architecture and language design.*
+*Currently conducting research in computer architecture and machine language design.*
 
 ---
 
