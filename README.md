@@ -14,10 +14,4 @@
   
 *Currently conducting research in computer architecture and machine language design.*
 
----
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcYebra&layout=compact&theme=yeblu" height="180"/>
-</p>
