@@ -10,7 +10,7 @@
   
 - AI/Machine Learning & Computer Vision
 - Programming Languages & Computer Architecture  
-- Quantum Computing 
+- Computer & Electrical Engineering
   
 *Currently conducting research in computer architecture and machine language design.*
 
