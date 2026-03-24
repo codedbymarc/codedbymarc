@@ -8,9 +8,9 @@
 
 <p>I'm a full-stack developer and AI major passionate about:</p>
   
-- AI & Computer Vision
+- Computer Vision
 - Programming Languages & Computer Architecture  
-- Computer Hardware
+- Robotics
   
 *Currently building and experimenting with advanced reasoning in large language models(LLMs).*
 
