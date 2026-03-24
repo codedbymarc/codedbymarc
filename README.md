@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/6d/d1/2a/6dd12a43413989fcdfeff0f9b8b46f20.gif" width="400" alt="Hacker-themed animation" />
 </p>
 
-<h2 align="center">Software Engineer • Researcher • Full-Stack Developer</h2>
+<h2 align="center">Software Engineer • Researcher • AI Major</h2>
 
 <p>I'm a full-stack developer and Computer Science major passionate about:</p>
   
