@@ -8,10 +8,10 @@
 
 <p>I'm a full-stack developer and Computer Science major passionate about:</p>
   
-- AI/Machine Learning & Computer Vision
+- AI & Computer Vision
 - Programming Languages & Computer Architecture  
-- Computer & Electrical Engineering
+- Computer Hardware
   
-*Currently conducting research in computer architecture and machine language design.*
+*Currently building and experimenting with advanced reasoning in large language models(LLMs).*
 
 
