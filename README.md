@@ -4,14 +4,17 @@
   <img src="https://i.pinimg.com/originals/6d/d1/2a/6dd12a43413989fcdfeff0f9b8b46f20.gif" width="400" alt="Hacker-themed animation" />
 </p>
 
-<h2 align="center">Software Engineer | Researcher</h2>
+<h2 align="center">CS + AI/ML | Tufts University</h2>
 
-<p>I'm a full-stack developer and AI major passionate about:</p>
-  
-- Computer Vision
-- Programming Languages & Computer Architecture  
-- Robotics
-  
-*Currently building and experimenting with advanced reasoning in large language models(LLMs).*
+---
 
+Currently building:
+- The Tech Scope Academy — a full-stack platform for CS courses and original research
+- Academic foundation toward a PhD track in AI research
 
+Research interests:
+- Computer vision
+- Programming Languages
+- Agricultural and wildlife AI applications
+
+---
