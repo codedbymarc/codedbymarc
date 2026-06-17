@@ -13,6 +13,6 @@ Currently building:
 Research interests:
 - Computer vision
 - Programming Languages
-- Agricultural and wildlife AI applications
+- Efficient Algorithms
 
 ---
