@@ -14,5 +14,3 @@ Research interests:
 - Computer vision
 - Programming Languages
 - Efficient Algorithms
-
----
